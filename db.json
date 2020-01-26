@@ -1,0 +1,19 @@
+{
+	"menu": [
+		"home","portfolio","about us","contects"
+	],
+
+	"products" : [
+		{
+			"id":1,
+			"title":"macbook",
+			"price":"10000"
+		},
+		{
+			"id":2,
+			"title":"macbook1",
+			"price":"20000"
+		}
+	]
+	
+}
